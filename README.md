@@ -3,6 +3,6 @@ Perform video and image style transfers using this deep learning based <a href="
 <br> 
 
 <p align="center">
-<img src="https://storage.googleapis.com/marketing-files/colab-notebooks/style-transfer/model.jpg" width="70%"/>
-<img src="https://storage.googleapis.com/marketing-files/colab-notebooks/style-transfer/model.jpg" width="30%"/>
+<img src="https://storage.googleapis.com/marketing-files/colab-notebooks/style-transfer/model.jpg" width="712"/>
+<img src="https://storage.googleapis.com/marketing-files/colab-notebooks/style-transfer/model.jpg" width="290"/>
 </p>
