@@ -8,6 +8,9 @@ Perform video and image style transfers using this deep learning based <a href="
 </p>
 
 
+# How the Code Works
+This notebook uses code from the following repo.
+[https://github.com/cysmith/neural-style-tf](https://github.com/cysmith/neural-style-tf)
 
 # How to Use
 ## Setup
