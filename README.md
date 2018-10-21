@@ -8,6 +8,10 @@ Perform video and image style transfers using this deep learning based <a href="
 </p>
 
 
+# Full Video Tutorial
+[![Google Colab Tutorial](https://i.imgur.com/8hZltea.jpg)](https://www.youtube.com/watch?v=f1UK8KPt-KU)
+
+
 # How the Code Works
 This notebook uses code from the following repo.
 [https://github.com/cysmith/neural-style-tf](https://github.com/cysmith/neural-style-tf)
