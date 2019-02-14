@@ -1,5 +1,5 @@
 # Neural-Style-Transfer-Notebook
-Perform video and image style transfers using this deep learning based <a href="https://colab.research.google.com/notebooks/welcome.ipynb" target="_blank">Google Colab</a> python notebook.
+Perform video and image style transfers using this deep learning based <a href="https://colab.research.google.com/github/MacgyverCode/Style-Transfer-Colab/blob/master/Neural_Style_Transfer_Notebook.ipynb" target="_blank">Google Colab</a> python notebook.
 <br> 
 [Open this Google Colab Notebook](https://colab.research.google.com/github/MacgyverCode/Style-Transfer-Colab/blob/master/Neural_Style_Transfer_Notebook.ipynb)
 <br>
