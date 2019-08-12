@@ -1,4 +1,5 @@
 # New Style Transfer Web Application! 
+![Whimsical.ai](https://i.imgur.com/TABLdZkg.png "Whimsical.ai") <br>
 Perform beautiful, custom, style transfers without writing a single line of code. <br>
 [https://www.whimsical.ai/beta](https://www.whimsical.ai/beta)
 
