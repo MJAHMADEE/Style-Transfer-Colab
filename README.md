@@ -5,7 +5,7 @@ Perform beautiful, custom, style transfers without writing a single line of code
 # Neural-Style-Transfer-Notebook
 Perform video and image style transfers using this deep learning based <a href="https://colab.research.google.com/github/MacgyverCode/Style-Transfer-Colab/blob/master/Neural_Style_Transfer_Notebook.ipynb" target="_blank">Google Colab</a> python notebook.
 <br> 
-[Open this Google Colab Notebook](https://colab.research.google.com/github/MacgyverCode/Style-Transfer-Colab/blob/master/Neural_Style_Transfer_Notebook.ipynb)
+[Open this Google Colab Notebook](https://colab.research.google.com/drive/1rDTE8Kssqdgc-evxO2JSkAE1YLIFRjwS)
 <br>
 <p align="center">
 <img src="https://storage.googleapis.com/marketing-files/colab-notebooks/style-transfer/bewty-1000.png" width="580"/>
