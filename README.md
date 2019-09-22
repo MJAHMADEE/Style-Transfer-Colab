@@ -1,7 +1,7 @@
 # New Style Transfer Web Application! 
 ![Whimsical.ai](https://i.imgur.com/TABLdZkg.png "Whimsical.ai") <br>
 Perform beautiful, custom, style transfers without writing a single line of code. <br>
-[http://whimsical.ai/](http://whimsical.ai/)
+[https://whimsical.ai/](http://whimsical.ai/)
 
 # Neural-Style-Transfer-Notebook
 Perform video and image style transfers using this deep learning based <a href="https://colab.research.google.com/github/MacgyverCode/Style-Transfer-Colab/blob/master/Neural_Style_Transfer_Notebook.ipynb" target="_blank">Google Colab</a> python notebook.
